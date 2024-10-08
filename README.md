@@ -5,8 +5,6 @@
 Soy Matías Peñaloza, Desarrollador Full-stack de software para grandes clientes, con el objetivo de seguir mejorando mis habilidades como desarrollador junior. Mi trayectoria profesional se ha centrado en ofrecer soluciones integrales y eficientes en diversos proyectos, trabajando con tecnologías como React, Angular, C#, Python, y bases de datos en SQL y Oracle. Estoy comprometido en ampliar mi conocimiento y experiencia en el desarrollo web, buscando siempre nuevos desafíos que me permitan crecer y aportar valor a los equipos con los que trabajo.
 
 ## 📊 Estadísticas:
-![Matías' GitHub stats](https://github-readme-stats.vercel.app/api?username=indigonet&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indigonet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👩‍💻 Lenguajes de Programación
