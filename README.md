@@ -20,6 +20,19 @@ Soy Matías Peñaloza, Desarrollador Full-stack de software para grandes cliente
 <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 </p>
 
+### 💻 Software y herramientas
+
+<p>
+<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+<img alt="Visual Studio Community" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+<img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
+<img alt="Vysor" src="https://img.shields.io/badge/vysor-%230071C5.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+<img alt="Postman" src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
+<img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+<img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+</p>
+
 ## 💼 Portafolio y CV
 
 <p>
