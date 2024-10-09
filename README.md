@@ -31,10 +31,7 @@ Desarrollador Full-stack de software para grandes clientes, con el objetivo de s
 <img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
 </p>
 
-## 💼 CONTACTO
+📫 CONTACTO
 
-<p>
-<a href="https://www.linkedin.com/in/matiasp10/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-
+<p> <a href="mailto:matiasfernando1002@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/matiasp10/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> </p>
 
